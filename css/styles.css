@@ -61,3 +61,30 @@ footer .copyright {
     font-family: "Noto Serif", serif;
     font-weight: 400;
 }
+
+.promo {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-image: url('ring-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 1rem 1rem 1rem 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: .5rem;
+    gap: 1rem;
+}
+
+.promo h1 {
+    font-family: "Noto Serif", serif;
+    font-weight: 400;
+}
+
+.promo p {
+    font-family: "Noto Serif", serif;
+    font-weight: 400;
+}
