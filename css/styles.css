@@ -116,3 +116,11 @@ footer .copyright {
     justify-content: center; /* Center contents */
     gap: 2rem;
 }
+
+.coming {
+    font-family: "Noto Serif", serif;
+    font-weight: 400;
+    font-size: 3rem;
+    text-align: center;
+    padding: 3rem;
+}
