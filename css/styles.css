@@ -36,6 +36,11 @@ li {
     font-weight: 400;
 }
 
+li:hover {
+    cursor: pointer;
+    border-bottom: 2px solid black;
+}
+
 a {
     text-decoration: none;
     color: black;
